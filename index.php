@@ -16,7 +16,7 @@
     <div class="row">
         <div class="col-md-12">
             <div class="form-div">
-            <form style="    padding: 40px 300px;background: #7faed7;border-radius: 8px;margin-top: 50px;"  id="userForm">
+            <form style="padding: 40px 300px;background: #7faed7;border-radius: 8px;margin-top: 50px;"  id="userForm">
         <h4 style="width:100%;text-align:center;padding:10px 0;">Add Product</h4>
                 <input type="hidden" id="user_id">
                 <div class="form-group">
